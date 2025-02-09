@@ -9,7 +9,7 @@
 
 - 👩🏻‍💻 I plan to refresh my knowledge of **HTML, CSS, Adobe Ps, Adobe Ai**
 
-- 💬 Feel free to reach me at **celessenacpil@gmail.com**
+- 💬 Feel free to reach me at **notaisle@gmail.com**
 
 <h3 align="left"> 👥 Connect with me:</h3>
 <p align="left">
