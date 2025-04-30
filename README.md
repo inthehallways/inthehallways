@@ -5,7 +5,7 @@
   
 - 🔭 I’m interested in **Web Designing and Mobile Development**
 
-- 🌱 I want to learn more about **HTML5, CSS3, JavaScript, Bootstrap, React**
+- 🌱 I want to learn more about **HTML, CSS, JavaScript, Bootstrap, React**
 
 - 👩🏻‍💻 I plan to refresh my knowledge of **HTML, CSS, Adobe Ps, Adobe Ai**
 
