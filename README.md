@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!👋</h1>
 
-<img src="https://raw.githubusercontent.com/inthehallways/inthehallways/output/snake.svg" alt="Snake animation" />
+<p align="center"> <img src="https://raw.githubusercontent.com/inthehallways/inthehallways/output/snake.svg" alt="Snake animation" /> </p>
 
 # 💫 About Me:
 🔭 I’m more interested on Front-end programming<br>
