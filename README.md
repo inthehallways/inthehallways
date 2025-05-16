@@ -16,9 +16,9 @@ oh and also I looooove this emoji 🤓
 # 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=inthehallways&theme=jolly&hide_border=false&include_all_commits=true&count_private=false" 
-       alt="GitHub Stats"/>
+       alt="GitHub Stats" height="200px"/>&nbsp;&nbsp;
   <img src="https://nirzak-streak-stats.vercel.app/?user=inthehallways&theme=jolly&hide_border=false" 
-       alt="GitHub Streak"/>
+       alt="GitHub Streak" height="200px"/>
 </p>
 
 <div align="center">
