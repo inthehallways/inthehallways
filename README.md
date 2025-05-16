@@ -1,5 +1,7 @@
 <h1 align="center">Hi there!👋</h1>
 
+<img src="https://raw.githubusercontent.com/inthehallways/inthehallways/output/snake.svg" alt="Snake animation" />
+
 # 💫 About Me:
 🔭 I’m more interested on Front-end programming<br>
 🌱 I’m currently learning about HTML, CSS, Bootstrap<br>
@@ -19,12 +21,11 @@ oh and also I looooove this emoji 🤓
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=inthehallways&theme=jolly&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
-  <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=inthehallways&theme=jolly&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/216655797-63671069-cb49-4ce1-a2d0-f15d1f4be193.gif"  />
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/216655797-63671069-cb49-4ce1-a2d0-f15d1f4be193.gif"  />
 </div>
 
 ###
