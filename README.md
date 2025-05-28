@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!👋</h1>
+<h1 align="center">Hi there<i> ! </i>👋</h1>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/inthehallways/inthehallways/output/snake.svg" alt="Snake animation" /> </p>
 
