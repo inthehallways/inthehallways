@@ -3,11 +3,11 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/inthehallways/inthehallways/output/snake.svg" alt="Snake animation" /> </p>
 
 # 💫 About Me
-🏫 3rd Year Student
+🏫 3rd Year Student<br>
 🔭 I’m more interested on UI/UX Design and Front-end development<br>
 🌱 I’m currently learning about HTML, CSS, and Bootstrap<br>
 💬 Feel free to reach me at notaisle@gmail.com<br>
-⚡ Fun fact! I never expected to be in this path but oh well here we are 😂 <br> 
+⚡ Fun fact! I never expected to be in this path but oh well here we are 😂<br> 
 <br>
 oh and also I looooove this emoji 🤓
 
