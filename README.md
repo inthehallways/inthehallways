@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/inthehallways/inthehallways/output/snake.svg" alt="Snake animation" /> </p>
 
 # 💫 About Me
-🏫 3rd Year College Student<br>
+🏫 3rd year college student :pt<br>
 🔭 I’m more interested on UI/UX Design and Front-end development<br>
 🌱 I’m currently learning about HTML, CSS, and Bootstrap<br>
 💬 Feel free to reach me at notaisle@gmail.com<br>
