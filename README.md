@@ -6,7 +6,6 @@
 🏫 Third Year College Student <br>
 🔭 I’m more interested on UI/UX Design and Front-end development<br>
 🌱 I’m currently trying to learn full-stack web development through [The Odin Project](https://www.theodinproject.com/) <br>
-💬 Feel free to reach me at notaisle@gmail.com<br>
 ⚡ Fun fact! I never expected to be in this path but oh well here we are 😂<br> 
 <br>
 # 💻 Tech Stack
