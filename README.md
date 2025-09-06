@@ -5,7 +5,7 @@
 # 💫 About Me
 🏫 3rd Year College Student <br>
 🔭 I’m more interested on UI/UX design and front-end development<br>
-🌱 I’m currently trying to learn full-stack web development through [The Odin Project](https://www.theodinproject.com/) (on pause because I'm busy with school 😭)<br>
+🌱 I’m currently trying to learn full-stack web development through [The Odin Project](https://www.theodinproject.com/) <em>(on pause because I'm busy with school 😭)</em><br>
 ⚡ Fun fact! I never expected to be in this path but oh well here we are 😂<br> 
 <br>
 # 💻 Tech Stack
