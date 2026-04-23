@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=inthehallways&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" 
        alt="GitHub Stats" width="380px"/>&nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=inthehallways&theme=jolly&hide_border=false](https://streak-stats.demolab.com/?user=inthehallways&theme=jolly&hide_border=false" 
+  <img src="https://streak-stats.demolab.com/?user=inthehallways&theme=jolly&hide_border=false" 
        alt="GitHub Streak" width=415px"/>
 </p>
 
